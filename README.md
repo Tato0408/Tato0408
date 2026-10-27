@@ -34,6 +34,9 @@ Over the past three years I've built web, mobile and desktop applications in tea
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,figma,vite,vercel,heroku" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle" title="Oracle" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" title="Render" />
 </p>
 
 > Also: **React Native / Expo** and **Framework7 + Capacitor** for mobile, **Oracle Database** and **SQL Server** for relational data, **JWT** authentication, **Cloudinary** and **Swagger**.
