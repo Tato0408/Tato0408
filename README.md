@@ -39,7 +39,7 @@ Over the past three years I've built web, mobile and desktop applications in tea
   <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" title="Render" />
 </p>
 
-> Also: **React Native / Expo** and **Framework7 + Capacitor** for mobile, **Oracle Database** and **SQL Server** for relational data, **JWT** authentication, **Cloudinary** and **Swagger**.
+> Also: **React Native / Expo** and **Framework7 for mobile, **JWT** authentication, **Cloudinary** and **Swagger**.
 
 ---
 
